@@ -1,0 +1,21 @@
+﻿@model List<Nursery.Models.Item>
+@{ 
+    ViewData["Title"] = "showProducts";
+}
+
+    <section class="section-products">
+        <div class="productsList">
+            @foreach (Item i in Model)
+            {
+                <div class="product">
+                    <img src=""
+                         class="product-img"
+                         alt="" />
+                    <h2>@i.ItemDescription</h2>
+                    <p>@i.ItemPrice</p>
+                </div>
+            }
+
+        </div>
+    </section>
+

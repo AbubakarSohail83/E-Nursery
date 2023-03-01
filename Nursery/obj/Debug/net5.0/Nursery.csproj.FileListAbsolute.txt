@@ -1,0 +1,149 @@
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\appsettings.json
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Nursery.exe
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Nursery.deps.json
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Nursery.runtimeconfig.json
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Nursery.runtimeconfig.dev.json
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Nursery.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\ref\Nursery.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Nursery.pdb
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Nursery.Views.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Nursery.Views.pdb
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.csproj.AssemblyReference.cache
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.AssemblyInfoInputs.cache
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.AssemblyInfo.cs
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.csproj.CoreCompileInputs.cache
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.RazorAssemblyInfo.cache
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.RazorAssemblyInfo.cs
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\staticwebassets\Nursery.StaticWebAssets.Manifest.cache
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\staticwebassets\Nursery.StaticWebAssets.xml
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\scopedcss\bundle\Nursery.styles.css
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.TagHelpers.input.cache
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.TagHelpers.output.cache
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.RazorCoreGenerate.cache
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.RazorTargetAssemblyInfo.cache
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.RazorTargetAssemblyInfo.cs
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.Views.pdb
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\ref\Nursery.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.pdb
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.genruntimeconfig.cache
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Nursery.csproj.CopyComplete
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Humanizer.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\abuba\Desktop\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Home\Signup.cshtml.g.cs
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\appsettings.json
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Nursery.exe
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Nursery.deps.json
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Nursery.runtimeconfig.json
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Nursery.runtimeconfig.dev.json
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Nursery.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\ref\Nursery.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Nursery.pdb
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Nursery.Views.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Nursery.Views.pdb
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Humanizer.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.csproj.AssemblyReference.cache
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.AssemblyInfoInputs.cache
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.AssemblyInfo.cs
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.csproj.CoreCompileInputs.cache
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.RazorAssemblyInfo.cache
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.RazorAssemblyInfo.cs
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\staticwebassets\Nursery.StaticWebAssets.Manifest.cache
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\staticwebassets\Nursery.StaticWebAssets.xml
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\scopedcss\bundle\Nursery.styles.css
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.TagHelpers.input.cache
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.TagHelpers.output.cache
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.RazorCoreGenerate.cache
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.RazorTargetAssemblyInfo.cache
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.RazorTargetAssemblyInfo.cs
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.Views.pdb
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.csproj.CopyComplete
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\ref\Nursery.dll
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.pdb
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery.genruntimeconfig.cache
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Signup\Signup.cshtml.g.cs
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Products\sshowProducts.cshtml.g.cs

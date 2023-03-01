@@ -1,0 +1,157 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <title>Phulwari.pk</title>
+
+</head>
+
+<body>
+    <!-- navbar -->
+    <nav class="navbar navbar-expand-md navbar-dark text-white pt-4 pb-4" style="background-color: green;">
+        <div class="container-xl text-white">
+            
+            <!-- navbar brand / title -->
+            <a class="navbar-brand" asp-controller="Home" asp-action="Index">
+                <img src="assets/icons8-forest-48.png" alt="Logo">
+                <span class="text-white fw-bold fst-italic">
+                    Phulwari.pk
+                </span>
+            </a>
+            <!-- toggle button for mobile nav -->
+            <button class="navbar-toggler border border-5 btn btn-outline- rounded-pill" type="button" data-toggle="collapse" data-target="#main-nav" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- navbar links -->
+            <div class="collapse navbar-collapse justify-content-end align-center text-white" id="main-nav">
+                <ul class="navbar-nav text-white">
+                    <li class="nav-item">
+                        <a class="nav-link text-white" href="#">About Us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" href="#reviews">New Arrivals</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Shop
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-light " aria-labelledby="navbarDarkDropdownMenuLink">
+                            <li><a class="dropdown-item text-success" href="#">Plants</a></li>
+                            <li><a class="dropdown-item text-success" href="#">Flowers</a></li>
+                            <li><a class="dropdown-item text-success" href="#">Indoor Plants</a></li>
+                            <li><a class="dropdown-item text-success" href="#">Fertilizers</a></li>
+
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" asp-controller="/Login" asp-action="Login">Log in</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" asp-controller="/Signup" asp-action="Signup">Sign up</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div>  @RenderBody()
+    @RenderSection("sectiontest",false)
+    </div>
+  
+
+    <div class="row">
+        <footer class="text-center text-white" style="background-color: white;color:green">
+            <div class="container-fluid">
+                <section>
+                    <div class="row text-center d-flex justify-content-center pt-5 " style="background-color:green">
+                        <!-- Grid column -->
+                        <div class="col-md-4">
+                            <h6 class="text-uppercase font-weight-bold">
+                                <a  style="color:white"  asp-controller="CompanyProfileController" asp-action="showAbout">About us</a>
+                            </h6>
+                        </div>
+
+                        <div class="col-md-4">
+                            <h6 class="text-uppercase font-weight-bold">
+                                <a style="color:white"  asp-controller="Products" asp-action="sshowProducts">Products</a>
+                            </h6>
+                        </div>
+
+                        <div class="col-md-4">
+                            <h6 class="text-uppercase font-weight-bold">
+                                <a style="color:white"  asp-controller="CompanyProfileController" asp-action="showContact">Contact Us</a>
+                            </h6>
+                        </div>
+
+                    </div>
+                    <!-- Grid row-->
+                </section>
+
+                <hr class="my-3" />
+
+                <!-- Section: Text -->
+                <section class="mb-3">
+                    <div class="row d-flex justify-content-center">
+                        <div class="col-lg-8">
+                            <p style="color:green">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt
+                                distinctio earum repellat quaerat voluptatibus placeat nam,
+                                commodi optio pariatur est quia magnam eum harum corrupti
+                                dicta, aliquam sequi voluptate quas.
+                            </p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Section: Social -->
+                <section class="text-center mb-5">
+                    <a href="" class=" me-4" style="color:lime">
+                        <i class="fab fa-facebook-f">xyz</i>
+                    </a>
+                    <a href="" class=" me-4" style="color:lime">
+                        <i class="fab fa-twitter">xyz</i>
+                    </a>
+                    <a href="" class=" me-4" style="color:lime">
+                        <i class="fab fa-google">xyz</i>
+                    </a>
+                    <a href="" class=" me-4" style="color:lime">
+                        <i class="fab fa-instagram">xyz</i>
+                    </a>
+                    <a href="" class=" me-4" style="color:lime">
+                        <i class="fab fa-linkedin">xyz</i>
+                    </a>
+                    <a href="" class=" me-4" style="color:lime">
+                        <i class="fab fa-github">xyz</i>
+                    </a>
+                </section>
+
+            </div>
+
+            <div class="text-center p-3"
+                 style="background-color:green;color:white">
+                © 2020 Copyright:
+                <a style="color:white" href="www.google.com">Phulwari.com</a>
+            </div>
+            <!-- Copyright -->
+        </footer>
+        <!-- Footer -->
+        <!-- End of .container -->
+    </div>
+
+
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</body>
+</html>
