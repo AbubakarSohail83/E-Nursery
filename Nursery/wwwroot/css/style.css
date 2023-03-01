@@ -11,6 +11,12 @@
     gap: 20px;
 }
 
+
+#dropdownMenuButton:hover {
+    opacity: 1;
+}
+
+
 .product {
     display: block;
     padding: 2rem;
