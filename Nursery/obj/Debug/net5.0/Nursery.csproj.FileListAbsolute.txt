@@ -147,3 +147,5 @@ C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Nursery
 C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Login\Login.cshtml.g.cs
 C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Signup\Signup.cshtml.g.cs
 C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Products\sshowProducts.cshtml.g.cs
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Home\aboutUs.cshtml.g.cs
+C:\Users\abuba\Desktop\ead term project\Nursery\Nursery\obj\Debug\net5.0\Razor\Views\Home\showContact.cshtml.g.cs

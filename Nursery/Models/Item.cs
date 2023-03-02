@@ -12,6 +12,9 @@ namespace Nursery.Models
         [Key]
         public int ItemId { get; set; }
 
+        [Required]
+        public string ItemName { get; set; }
+
         [MaxLength(100),Required]
         public string ItemDescription { get; set; }
 

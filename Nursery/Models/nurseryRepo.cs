@@ -15,5 +15,10 @@ namespace Nursery.Models
             return p;
         }
 
+        public void addUser(User u)
+        {
+            db.AddUser(u);
+        }
+
     }
 }

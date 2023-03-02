@@ -17,13 +17,36 @@ namespace Nursery.Models
         }
         public List<Item> showProducts(string category)
         {
-            if(category=="Products")
+            try
             {
-                var prods2 = dbCxt.Items.ToList();
-                return prods2;
+                if (category == "Products")
+                {
+                    var prods2 = dbCxt.Items.ToList();
+                    return prods2;
+                }
+                var prods = dbCxt.Items.Where((prod) => prod.ItemCategory == category).ToList();
+                return prods;
             }
-            var prods = dbCxt.Items.Where((prod) => prod.ItemCategory == category).ToList();
-            return prods;
+            catch
+            {
+                return null;
+            }
+        }
+        public bool AddUser(User u)
+        {
+            try
+            {
+                var f = dbCxt.Users.Add(u);
+                dbCxt.SaveChanges();
+                if (f != null)
+
+                    return true;
+            }
+            catch
+            {
+                return false;
+            }
+            return false;
         }
     }
 }

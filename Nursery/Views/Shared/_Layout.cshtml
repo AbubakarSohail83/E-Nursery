@@ -33,10 +33,10 @@
             <div class="collapse navbar-collapse justify-content-end align-center text-white" id="main-nav">
                 <ul class="navbar-nav text-white">
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="#">About Us</a>
+                        <a class="nav-link text-white" asp-controller="Home" asp-action="aboutUs" >About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="#reviews">New Arrivals</a>
+                        <a class="nav-link text-white" asp-controller="Products" asp-action="showProducts" asp-route-id="Products">New Arrivals</a>
                     </li>
                     <li class="nav-item">
                         <div class="dropdown">
@@ -75,7 +75,7 @@
                         <!-- Grid column -->
                         <div class="col-md-4">
                             <h6 class="text-uppercase font-weight-bold">
-                                <a style="color:white" asp-controller="CompanyProfileController" asp-action="showAbout">About us</a>
+                                <a style="color:white"  asp-controller="Home" asp-action="aboutUs" >About us</a>
                             </h6>
                         </div>
 
@@ -87,7 +87,7 @@
 
                         <div class="col-md-4">
                             <h6 class="text-uppercase font-weight-bold">
-                                <a style="color:white" asp-controller="CompanyProfileController" asp-action="showContact">Contact Us</a>
+                                <a style="color:white" asp-controller="Home" asp-action="showContact">Contact Us</a>
                             </h6>
                         </div>
 

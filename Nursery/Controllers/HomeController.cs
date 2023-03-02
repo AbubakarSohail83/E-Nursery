@@ -16,6 +16,14 @@ namespace Nursery.Controllers
             return View();
         }
         
+        public IActionResult aboutUs()
+        {
+            return View();
+        }
 
+        public IActionResult showContact()
+        {
+            return View();
+        }
     }
 }

@@ -5,7 +5,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Nursery.Models;
 
-namespace Nursery.Controllers
+
+   namespace Nursery.Controllers
 {
     public class SignupController : Controller
     {
@@ -16,13 +17,15 @@ namespace Nursery.Controllers
         }
 
         [HttpPost]
-        public RedirectToActionResult Signup(User u)
+        public IActionResult Signup(User u)
         {
-            var db = new ENurseryContext();
+            nurseryRepo repo = new ();
             u.URole = "Customer";
-            db.Users.Add(u);
-            db.SaveChanges();
-            return RedirectToAction("Login","Login");
+            if (ModelState.IsValid)
+                repo.addUser(u);
+            else
+                return View();
+            return View("~/Views/Login/Login.cshtml");
         }
     }
 }
