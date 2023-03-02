@@ -11,11 +11,19 @@ namespace Nursery.Controllers
 {
     public class ProductsController : Controller
     {
+        //private readonly INurseryRepo repo;
+
+        //ProductsController(INurseryRepo reff)
+        //{
+        //    this.repo = reff;
+        //}
+
         public IActionResult ShowProducts([FromRoute]string id)
         {
             List<Item> prod = new();
             nurseryRepo repo = new();
             prod = repo.showProducts(id);
+
             
             return View("sshowProducts", prod);
 

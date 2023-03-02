@@ -19,8 +19,8 @@ namespace Nursery.Controllers
                 var checkLogin = repo.verifyLogin(u);
                 if (checkLogin != false)
                 {
-                   
-                  Response.Cookies.Append(u.UEmail,u.UPassword);
+                   if(!(HttpContext.Request.Cookies.ContainsKey(u.UEmail)))
+                        Response.Cookies.Append(u.UEmail,u.UPassword);
                     
                     return View("~/Views/Home/Index.cshtml");
                 }
