@@ -48,5 +48,13 @@ namespace Nursery.Models
             }
             return false;
         }
+
+        public bool verifyLoginCredentials(string email, string pass)
+        {
+            var something=dbCxt.Users.Where(s => s.UEmail.Equals(email) && s.UPassword.Equals(pass)).FirstOrDefault();
+            if (something != null)
+                return true;
+            else return false;
+        }
     }
 }

@@ -15,10 +15,13 @@ namespace Nursery.Controllers
         {
             if (!ModelState.IsValid)
             {
-                var db = new ENurseryContext();
-                var checkLogin = db.Users.Where(s => s.UEmail.Equals(u.UEmail) && s.UPassword.Equals(u.UPassword)).FirstOrDefault();
-                if (checkLogin != null)
+                var repo = new nurseryRepo();
+                var checkLogin = repo.verifyLogin(u);
+                if (checkLogin != false)
                 {
+                   
+                  Response.Cookies.Append(u.UEmail,u.UPassword);
+                    
                     return View("~/Views/Home/Index.cshtml");
                 }
                 else
