@@ -44,19 +44,18 @@
                                 Select an item
                             </a>
                             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                <a class="dropdown-item" href="#">Flowers</a>
-                                <a class="dropdown-item" href="#">Air</a>
-                                <a class="dropdown-item" href="#">Water</a>
-                                <a class="dropdown-item" href="#">Plants</a>
+                                <a class="dropdown-item" asp-controller="Products" asp-action="showProducts" asp-route-id="Plants">Plants</a>
+                                <a class="dropdown-item" asp-controller="Products" asp-action="showProducts" asp-route-id="Flowers">Flowers</a>
+                                <a class="dropdown-item" asp-controller="Products" asp-action="showProducts" asp-route-id="PlantCare">Plant Care</a>
                             </div>
                         </div>
 
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" asp-controller="/Login" asp-action="Login">Log in</a>
+                        <a class="nav-link text-white" asp-controller="Login" asp-action="Login">Log in</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" asp-controller="/Signup" asp-action="Signup">Sign up</a>
+                        <a class="nav-link text-white" asp-controller="Signup" asp-action="Signup">Sign up</a>
                     </li>
                 </ul>
             </div>
@@ -82,7 +81,7 @@
 
                         <div class="col-md-4">
                             <h6 class="text-uppercase font-weight-bold">
-                                <a style="color:white" asp-controller="Products" asp-action="sshowProducts">Products</a>
+                                <a style="color:white" asp-controller="Products" asp-action="showProducts" asp-route-id="Products">Products</a>
                             </h6>
                         </div>
 

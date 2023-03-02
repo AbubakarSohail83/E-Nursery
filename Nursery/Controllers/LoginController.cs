@@ -11,15 +11,21 @@ namespace Nursery.Controllers
     {
    
         [HttpPost]
-        public string Login(User u)
+        public IActionResult Login(User u)
         {
-            var db = new ENurseryContext();
-            var checkLogin = db.Users.Where(s => s.UEmail.Equals(u.UEmail) && s.UPassword.Equals(u.UPassword)).FirstOrDefault();
-            if (checkLogin != null)
+            if (!ModelState.IsValid)
             {
-                return "Success";
+                var db = new ENurseryContext();
+                var checkLogin = db.Users.Where(s => s.UEmail.Equals(u.UEmail) && s.UPassword.Equals(u.UPassword)).FirstOrDefault();
+                if (checkLogin != null)
+                {
+                    return View("~/Views/Home/Index.cshtml");
+                }
+                else
+                    return View() ;
             }
-            return "Unsuccessful";
+            else
+            return View();
         }
         [HttpGet]
         public ViewResult Login()

@@ -15,11 +15,15 @@ namespace Nursery.Models
         {
             dbCxt = new ENurseryContext();
         }
-        public List<Item> showProducts()
+        public List<Item> showProducts(string category)
         {
-            ENurseryContext mydb= new ENurseryContext();
-            var p = mydb.Items.ToList();
-            return p;
+            if(category=="Products")
+            {
+                var prods2 = dbCxt.Items.ToList();
+                return prods2;
+            }
+            var prods = dbCxt.Items.Where((prod) => prod.ItemCategory == category).ToList();
+            return prods;
         }
     }
 }

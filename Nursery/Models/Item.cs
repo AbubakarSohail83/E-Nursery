@@ -11,8 +11,14 @@ namespace Nursery.Models
     { 
         [Key]
         public int ItemId { get; set; }
+
+        [MaxLength(100),Required]
         public string ItemDescription { get; set; }
+
+        [Range(0,double.PositiveInfinity),Required]
         public double ItemPrice { get; set; }
+
+        [MaxLength(15),Required]
         public string ItemCategory { get; set; }
         
         public string ItemSubCategory { get; set; }
