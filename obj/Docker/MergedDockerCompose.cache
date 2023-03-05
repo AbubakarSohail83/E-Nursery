@@ -1,0 +1,39 @@
+name: dockercompose17602851633380688584
+services:
+  nursery:
+    build:
+      context: C:\Users\abuba\Desktop\ead term project\Nursery
+      dockerfile: Nursery/Dockerfile
+    container_name: nurseryApp
+    depends_on:
+      nurseryAppDb:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: nursery
+    networks:
+      nurseryAppNetwork: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+    - mode: ingress
+      target: 80
+      published: "8001"
+      protocol: tcp
+  nurseryAppDb:
+    container_name: nurseryAppDb
+    environment:
+      ACCEPT_EULA: "Y"
+      'MSSQL_SA_PASSWORD ': ' 123'
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    networks:
+      nurseryAppNetwork: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "8001"
+      protocol: tcp
+networks:
+  nurseryAppNetwork:
+    name: dockercompose17602851633380688584_nurseryAppNetwork

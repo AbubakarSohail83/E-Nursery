@@ -1,0 +1,31 @@
+version: '3.4'
+
+networks:
+    nurseryAppNetwork:
+
+services:
+    nurseryAppDb:
+        container_name: nurseryAppDb
+        image: mcr.microsoft.com/mssql/server:2019-latest
+
+        ports:
+            - 8001:1433
+        environment:
+            - ACCEPT_EULA=Y
+            - MSSQL_SA_PASSWORD = 123
+        networks:
+            - nurseryAppNetwork
+
+
+    nursery:
+        container_name: nurseryApp
+        ports: 
+            - 8001:80 
+        image: ${DOCKER_REGISTRY-}nursery
+        build:
+          context: .
+          dockerfile: Nursery/Dockerfile
+        depends_on:
+          - nurseryAppDb
+        networks:
+          - nurseryAppNetwork

@@ -15,7 +15,8 @@ namespace Nursery.Models
         public ENurseryContext(DbContextOptions<ENurseryContext> options)
             : base(options)
         {
-        }
+            ;
+               }
 
         public virtual DbSet<Inventory> Inventories { get; set; }
         public virtual DbSet<Item> Items { get; set; }
